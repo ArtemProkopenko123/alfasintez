@@ -36,7 +36,7 @@
     margin-bottom: 15px;
 }
 .smothe_block {
-    background: url(/upload/av-alfasintez/smothe-line.svg) center;
+    background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/smothe-line.svg) center;
     background-size: cover;
     width: 100%;
     height: 70px;
@@ -244,7 +244,7 @@
 /************************************SECTION 5********************************************/
 
 .section-page-5 .wave {
-    background: url(/upload/av-alfasintez/Fon_green_1.svg) center;
+    background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/Fon_green_1.svg) center;
     background-repeat: repeat;
     background-size: cover;
     padding: 40px 0;
@@ -275,25 +275,25 @@
 }
 
 .section-5-image > div:nth-child(1) {
-    background: url(/upload/av-alfasintez/chicken.svg) no-repeat center;
+    background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/chicken.svg) no-repeat center;
     background-size: inherit;
     height: 150px;
 }
 
 .section-5-image > div:nth-child(2) {
-    background: url(/upload/av-alfasintez/ranch.svg)no-repeat center;
+    background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/ranch.svg)no-repeat center;
     background-size: inherit;
     height: 170px;
 }
 
 .section-5-image > div:nth-child(3) {
-    background: url(/upload/av-alfasintez/meet.svg)no-repeat center;
+    background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/meet.svg)no-repeat center;
     background-size: inherit;
     height: 150px;
 }
 
 .section-5-image > div:nth-child(4) {
-    background: url(/upload/av-alfasintez/-cupcakes.svg)no-repeat center;
+    background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/-cupcakes.svg)no-repeat center;
     background-size: inherit;
     height: 200px;
     margin-top: -50px;
@@ -351,16 +351,16 @@
     background-size:cover!important;position:fixed;bottom:0;width:100%;height:100%;z-index:-1;
 }
 @media screen and (min-width: 1200px){
-    .BG-7n-page{background:url(/upload/av-alfasintez/fon_2_1920x1024.jpg) no-repeat center}
+    .BG-7n-page{background:url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/fon_2_1920x1024.jpg) no-repeat center}
 }
 @media screen and (max-width: 1199px) and (min-width: 992px){
-    .BG-7n-page{background:url(/upload/av-alfasintez/fon_2_1024x770-min.jpg) no-repeat center}
+    .BG-7n-page{background:url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/fon_2_1024x770-min.jpg) no-repeat center}
 }
 @media screen and (max-width: 991px) and (min-width: 500px){
-    .BG-7n-page{background:url(/upload/av-alfasintez/fon_2_770x1024-min.jpg) no-repeat center}
+    .BG-7n-page{background:url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/fon_2_770x1024-min.jpg) no-repeat center}
 }
 @media screen and (max-width: 499px){
-    .BG-7n-page{background:url(/upload/av-alfasintez/fon_2_375x667-min.jpg) no-repeat center}
+    .BG-7n-page{background:url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/fon_2_375x667-min.jpg) no-repeat center}
 }
 .section-page-7 h3 {
     border-bottom: 2px solid #FFF;
@@ -408,7 +408,7 @@
 }
 @media screen and (min-width: 992px) {
     .section-8-right-img {
-        background: url(/upload/av-alfasintez/tomatoes.png) no-repeat center;
+        background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/tomatoes.png) no-repeat center;
         background-size: contain;
         min-height: 430px;
         height: 430px;
@@ -589,7 +589,7 @@
 }
 
 .border-style {
-    background: url(/upload/av-alfasintez/Fon_white.svg) center;
+    background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/Fon_white.svg) center;
     background-repeat: repeat;
     background-size: cover;
     height: 30px;
@@ -672,17 +672,17 @@
 
 .map-left-text span[data-phone],
 .map-left-text-mobile span[data-phone] {
-    background: url(/upload/av-alfasintez/telephone-handset.svg) no-repeat left;
+    background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/telephone-handset.svg) no-repeat left;
 }
 
 .map-left-text span[data-email],
 .map-left-text-mobile span[data-email] {
-    background: url(/upload/av-alfasintez/email.svg) no-repeat left;
+    background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/email.svg) no-repeat left;
 }
 
 .map-left-text span[data-address],
 .map-left-text-mobile span[data-address] {
-    background: url(/upload/av-alfasintez/location-marker.svg) no-repeat left;
+    background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/location-marker.svg) no-repeat left;
 }
 
 li[data-social] {
@@ -697,16 +697,16 @@ li[data-social] div {
 }
 
 li[data-social] div:nth-child(1) {
-    background: url(/upload/av-alfasintez/google-plus.svg) no-repeat center;
+    background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/google-plus.svg) no-repeat center;
 }
 
 
 li[data-social] div:nth-child(2) {
-    background: url(/upload/av-alfasintez/tw.svg) no-repeat center;
+    background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/tw.svg) no-repeat center;
 }
 
 li[data-social] div:nth-child(3) {
-    background: url(/upload/av-alfasintez/facebook.svg) no-repeat center;
+    background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/facebook.svg) no-repeat center;
     background-size: 40px !important;
 ;
 }
@@ -1029,7 +1029,7 @@ li[data-social] div a {
         margin-top: -5px;
     }
     .sect_8_BG{
-        background: url(/upload/av-alfasintez/tom-EN.png) no-repeat center;
+        background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/tom-EN.png) no-repeat center;
         background-size: contain;
         min-height: 500px;
         display: inline-block;
@@ -1074,7 +1074,7 @@ li[data-social] div a {
         margin: 0 auto;
     }
     .sect_8_BG{
-        background: url(/upload/av-alfasintez/tom-EN.png) no-repeat center;
+        background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/tom-EN.png) no-repeat center;
         background-size: contain;
         display: inline-block;
         width: 100%;
@@ -1130,7 +1130,7 @@ li[data-social] div a {
 }
 @media screen and (max-width: 400px) {
     .sect_8_BG {
-        background: url(/upload/av-alfasintez/tom-EN.png) no-repeat center;
+        background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/tom-EN.png) no-repeat center;
         background-size: contain;
         display: inline-block;
         width: 100%;

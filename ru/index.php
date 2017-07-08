@@ -11,22 +11,22 @@ $APPLICATION->SetTitle("Title");
 <style>
 	@media screen and (min-width: 1200px) {
 		.BG-1st-page {
-			background: url(/upload/av-alfasintez/fon1_1920x1000.jpg) no-repeat center
+			background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/fon1_1920x1000.jpg) no-repeat center
 		}
 	}
 	@media screen and (max-width: 1199px) and (min-width: 992px) {
 		.BG-1st-page {
-			background: url(/upload/av-alfasintez/fon1_1024x770.jpg) no-repeat center
+			background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/fon1_1024x770.jpg) no-repeat center
 		}
 	}
 	@media screen and (max-width: 991px) and (min-width: 500px) {
 		.BG-1st-page {
-			background: url(/upload/av-alfasintez/fon1_770x1024.jpg) no-repeat center
+			background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/fon1_770x1024.jpg) no-repeat center
 		}
 	}
 	@media screen and (max-width: 499px) {
 		.BG-1st-page {
-			background: url(/upload/av-alfasintez/fon1_375x667.jpg) no-repeat center
+			background: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/fon1_375x667.jpg) no-repeat center
 		}
 	}
 
@@ -220,7 +220,7 @@ $APPLICATION->SetTitle("Title");
 		color: #fff
 	}
 	.phone-image:before {
-		background-image: url(/upload/av-alfasintez/phone-call.svg);
+		background-image: url(/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/phone-call.svg);
 		background-size: 27px;
 		content: " ";
 		height: 27px;
@@ -315,8 +315,8 @@ $APPLICATION->SetTitle("Title");
                 <div class="pull-right ">
                     <br>
                     <ul id="lang-toggle" class=" hidden-sm hidden-xs">
-                        <li class=" green-border-btn active"><a href="/ru/">RU</a></li>
-                        <li class=" green-border-btn "><a href="/en/">EN</a></li>
+                        <li class=" green-border-btn active"><a href="/ALFASINTEZ/alfasintez.com.ua/ru">RU</a></li>
+                        <li class=" green-border-btn "><a href="/ALFASINTEZ/alfasintez.com.ua/en">EN</a></li>
                     </ul>
 
                 </div>
@@ -416,7 +416,7 @@ $APPLICATION->SetTitle("Title");
                 </svg>
             </div>
             <div class="text-center hidden-lg hidden-md arrow-down">
-                <img src="/upload/av-alfasintez/arrow.svg" alt="">
+                <img src="/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/arrow.svg" alt="">
             </div>
             <div class="smothe_block"></div>
         </div>
@@ -983,7 +983,7 @@ $APPLICATION->SetTitle("Title");
                 </div>
             </div>
             <div class=" col-md-12 col-sm-12 " id="map_canvas"></div>
-            <div class="col-md-12 text-center logoFooter hidden-sm hidden-xs"><img src="/upload/av-alfasintez/logo_footer.svg" alt=""></div>
+            <div class="col-md-12 text-center logoFooter hidden-sm hidden-xs"><img src="/ALFASINTEZ/alfasintez.com.ua/upload/av-alfasintez/logo_footer.svg" alt=""></div>
         </div>
 
     </div>
